@@ -1,0 +1,25 @@
+.language-switcher{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.language-switcher > button {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 25px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    width: 70px;
+    height: 70px;
+}
+
+.language-switcher > button > span {
+    justify-content: center;
+    color: white;
+    font-size: 10px; 
+}
+

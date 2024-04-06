@@ -1,6 +1,8 @@
 {
     "translation": {
-        "welcomeToTheBest": "Bienvenue dans la meilleure application web du mond"
+        "selectYourLanguage": "Choisissez votre langue",
+        "welcomeToTheBest": "Bienvenue sur la meilleure webapp du monde",
+        "whereYouCan": "où tu peux trouver tout ce que tu veux"
         
     }
 }
