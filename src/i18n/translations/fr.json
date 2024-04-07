@@ -2,7 +2,9 @@
     "translation": {
         "selectYourLanguage": "Choisissez votre langue",
         "welcomeToTheBest": "Bienvenue sur la meilleure webapp du monde",
-        "whereYouCan": "où tu peux trouver tout ce que tu veux"
+        "whereYouCan": "où tu peux trouver tout ce que tu veux",
+        "selectedCounter": "Vous avez cliqué ({{counter}}) fois sur le bouton!",
+        "button": "Bouton"
         
     }
 }

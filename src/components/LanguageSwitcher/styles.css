@@ -23,3 +23,12 @@
     font-size: 10px; 
 }
 
+.language-switcher > button > img {
+    transition: transform 0.2s ease-in-out; /* Suaviza a animação */
+}
+
+.language-switcher > button > img:hover {
+    transform: translateY(-5px); /* Move o elemento 5 pixels para cima */
+}
+
+

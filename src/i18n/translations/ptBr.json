@@ -2,6 +2,8 @@
     "translation": {
         "selectYourLanguage": "Selecione seu idioma",
         "welcomeToTheBest": "Bem-vindo ao melhor aplicativo da Web do mundo",
-        "whereYouCan": "onde você pode encontrar tudo o que quiser"
+        "whereYouCan": "onde você pode encontrar tudo o que quiser",
+        "selectedCounter": "Você clicou ({{counter}}) vezes no botão!",
+        "button": "Botão"
     }
 }
